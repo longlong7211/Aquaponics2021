@@ -7,6 +7,7 @@ Mô tả hệ thống:
 # II.	Fontend
 # III.	Nhúng
 ## a.	Sơ đồ mạch
+https://github.com/longlong7211/Aquaponics2021/blob/main/AquaUno_bb.png
 ## b.	Command: 
 -	Lệnh: AT=<mã lệnh>
 -	Mã lệnh:
